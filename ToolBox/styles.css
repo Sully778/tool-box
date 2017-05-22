@@ -1,0 +1,13 @@
+
+
+/* .tb-btn make a non button look like a button */
+.tb-btn{
+    cursor: pointer;
+}
+
+/* .tb-link make a non link look like a link */
+.tb-link{
+    cursor: pointer;
+    text-decoration: underline;
+    color: #0020ff;
+}
